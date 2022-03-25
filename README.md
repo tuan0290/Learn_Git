@@ -17,6 +17,7 @@
 			- <img src="https://images.viblo.asia/full/de65aef9-236b-46e8-845e-6bbbf22e9d64.png">
 	- Git chính là hệ thống phiên bản phân tán (DVCs), với các ưu điểm về tốc độ, đơn giản, phân tán, phù hợp với dự án lớn nhỏ.
 
+
 2.How to install git command on clients (Windows, Linux)
 - Windows
 	- https://git-scm.com/downloads
